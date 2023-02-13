@@ -1,4 +1,4 @@
-# week2-RJ7-CipherSchools
+# week3-RJ7-CipherSchools
 
 # Getting Started with Create React App
 
